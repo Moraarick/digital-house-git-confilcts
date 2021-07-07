@@ -1,2 +1,2 @@
 # digital-house-git-confilcts
-repo de prueba para conflictos en git.
+repo de prueba para conflictos en git
